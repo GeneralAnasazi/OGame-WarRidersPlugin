@@ -2,7 +2,7 @@
 // @name         war-riders plugin
 // @namespace    ogame_generalanasazi_warriders
 // @version      1.0
-// @description  try to take over the world!
+// @description  add direct links to War Riders to the tooltips in the galaxy view
 // @author       GeneralAnasazi
 // @include     *ogame.gameforge.com/game/index.php?page=galaxy*
 // @grant        none
